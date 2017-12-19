@@ -6,13 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Live from his basement, it's Sean's Content LIVE!!! Starring AlexKabanPrizon!
+title: Welcome to Sean's Homepage!
 email: seanholmes77@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alex is a really smaht coo guhl and she likes to play board games and watch Roll Tide with me on the couch.
-  Paddy is an excellent bear dog who likes to play and embark on adventures with me.
-  Remi, Beetle, Motor, and Sylbio are some of the bestest most loving and entertaining cats we could ask for!
-  Merry Christmas from our happy home to yours! Cheers~
+  This is a personal website where I intend to display content of interest as I familiarize myself with the tech. 
+  I'm glad you stopped by. Cheers~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.seanholmes77.com" # the base hostname & protocol for your site
 twitter_username: seanholmes77
